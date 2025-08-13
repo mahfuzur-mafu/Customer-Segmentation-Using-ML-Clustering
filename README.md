@@ -127,15 +127,6 @@ These descriptions are displayed in the Streamlit app with color-coded cards.
 
 - **Performance**: The model effectively groups customers; evaluate with silhouette score or inertia in the notebook for improvements.
 
-## Contributing
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit changes (`git commit -m 'Add feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a Pull Request.
-
-For issues or suggestions, open an [issue](https://github.com/mahfuzur-mafu/Customer-Segmentation-Using-ML-Clustering/issues).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
