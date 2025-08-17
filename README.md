@@ -122,8 +122,21 @@ Based on the trained model, the 6 clusters are interpreted as follows (from `app
 These descriptions are displayed in the Streamlit app with color-coded cards.
 
 ## Results and Visualization
-- **PCA Scatter Plot**: Visualizes clusters in 2D space (from notebook).
-  ![PCA Visualization](images/pca_visualization.png)  <!-- Add actual image if available in repo -->
+
+<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/7344a484-8439-4e96-b502-6013dcfce397" />
+
+<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/0036ada0-e05e-4bff-84ef-c695810b4d54" />
+
+<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/c7bbd588-e4da-4ab8-852e-a10ce30f0fea" />
+
+<img width="580" height="495" alt="image" src="https://github.com/user-attachments/assets/cbdc8a52-77c4-4198-986e-5e94c15ea3be" />
+
+<img width="641" height="561" alt="image" src="https://github.com/user-attachments/assets/4a4b3996-c167-4368-9ad0-34f3537f6356" />
+
+<img width="565" height="455" alt="image" src="https://github.com/user-attachments/assets/9773681b-79b2-422b-8bb6-3e12ca0c68b3" />
+
+
+
 
 - **Performance**: The model effectively groups customers; evaluate with silhouette score or inertia in the notebook for improvements.
 
