@@ -137,6 +137,8 @@ These descriptions are displayed in the Streamlit app with color-coded cards.
 
 
 
+# Streamlit User Interface
+
 
 - **Performance**: The model effectively groups customers; evaluate with silhouette score or inertia in the notebook for improvements.
 
