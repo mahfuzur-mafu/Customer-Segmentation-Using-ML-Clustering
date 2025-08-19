@@ -20,8 +20,6 @@ The project includes:
 - [Usage](#usage)
 - [Cluster Descriptions](#cluster-descriptions)
 - [Results and Visualization](#results-and-visualization)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 Customer segmentation divides a customer base into distinct groups sharing similar characteristics. This project uses KMeans clustering on features like age, income, spending behavior, recency, and purchase channels to identify 6 clusters. The model is trained on a retail customer dataset and deployed via a user-friendly Streamlit app where users can input customer details to predict segments in real-time.
@@ -139,10 +137,7 @@ These descriptions are displayed in the Streamlit app with color-coded cards.
 
 # Streamlit User Interface
 
+<img width="1470" height="801" alt="image" src="https://github.com/user-attachments/assets/1f2cecf3-9917-4cf0-bcae-2cbd9e362f09" />
 
-- **Performance**: The model effectively groups customers; evaluate with silhouette score or inertia in the notebook for improvements.
 
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
