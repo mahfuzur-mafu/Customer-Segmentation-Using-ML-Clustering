@@ -127,6 +127,9 @@ These descriptions are displayed in the Streamlit app with color-coded cards.
 
 <img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/c7bbd588-e4da-4ab8-852e-a10ce30f0fea" />
 
+<img width="592" height="455" alt="image" src="https://github.com/user-attachments/assets/0f232ada-1731-4b53-9541-291ee5ef3c32" />
+
+
 <img width="580" height="495" alt="image" src="https://github.com/user-attachments/assets/cbdc8a52-77c4-4198-986e-5e94c15ea3be" />
 
 <img width="641" height="561" alt="image" src="https://github.com/user-attachments/assets/4a4b3996-c167-4368-9ad0-34f3537f6356" />
