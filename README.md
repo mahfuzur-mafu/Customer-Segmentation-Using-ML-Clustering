@@ -1,8 +1,13 @@
 # Customer Segmentation Using ML Clustering
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange.svg)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-lightblue.svg)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green.svg)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-teal.svg)](https://seaborn.pydata.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-yellow.svg)](https://scikit-learn.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red.svg)](https://streamlit.io/)
+
 
 This project implements customer segmentation using unsupervised machine learning clustering techniques, specifically KMeans, to group customers based on demographic and behavioral attributes. The segmented clusters help businesses tailor marketing strategies, improve customer engagement, and optimize resource allocation.
 
